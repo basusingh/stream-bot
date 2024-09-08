@@ -1,0 +1,22 @@
+{
+    "private_urls": [
+      "https://private-url-1.com",
+      "https://private-url-2.com",
+      "https://private-url-3.com",
+      "https://private-url-4.com",
+      "https://private-url-5.com",
+      "https://private-url-6.com"
+    ],
+    "public_urls": [
+      "https://public-url-1.com",
+      "https://public-url-2.com",
+      "https://public-url-3.com",
+      "https://public-url-4.com",
+      "https://public-url-5.com",
+      "https://public-url-6.com",
+      "https://public-url-7.com",
+      "https://public-url-8.com",
+      "https://public-url-9.com",
+      "https://public-url-10.com"
+    ]
+  }

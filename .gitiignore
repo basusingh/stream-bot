@@ -1,0 +1,4 @@
+touch .gitignore
+echo "venv/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "__pycache__/" >> .gitignore
